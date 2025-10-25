@@ -8,3 +8,4 @@ Uno dei miei piatti preferiti
 * Olio
 * Peperoncino
 * Prezzemolo
+* sale
