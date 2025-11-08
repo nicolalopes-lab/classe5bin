@@ -1,6 +1,15 @@
 # ricette di famiglia
 ## Elenco delle ricette
-file spaghetti1.md
+
 Ricetta "Spaghetti aglio, olio e peperoncino"
+file spaghetti1.md
+
+*ricetta "risotto ai funghi"
 file risotto1.md
-ricetta "risotto ai funghi"
+
+*ricetta "pennette al salmone"
+file:pennette2.md
+
+# ricetta pennettealla carbonara
+file pennette1.md
+
